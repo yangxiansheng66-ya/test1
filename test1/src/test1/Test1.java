@@ -6,6 +6,9 @@ public class Test1 {
 		//666666
 		System.out.println(1);
 		//8888888888
+		System.out.println(2);
+		//666666666
+		//777777777
 	}
 
 }
